@@ -1,13 +1,12 @@
 
 
 ### Hi there 👋, my name is Abhijit Sarker
-#### Web developer || Wordpress Plugin Developer
+#### Web developer || Wordpress Developer
 
 <!-- ![I am a web developer](https://pbs.twimg.com/profile_banners/4424194840/1666565251/1500x500)
  -->
-WordPress Plugin Developer skilled in PHP, and MySQL.
 
-Skills: HTML/CSS/Bootstrap/PHP/MySql
+Skills: jQuery/PHP/MySql
 
 - 🔭 I’m currently working on  a plugin project for a wordpress site. 
 - 🌱 I’m currently learning PHP. 
