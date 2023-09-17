@@ -2,7 +2,7 @@
 #### FrontEnd Developer
 I'm a passionate web developer with a strong love for open-source projects. I specialize in crafting web applications using the following technologies:
 
-Skills:  REACT / MongoDB / NodeJS / ExpressJS / JavaScript / HTML / CSS
+Skills:  REACT / JavaScript / HTML / CSS
 
 - 🔭 I’m currently working on Frontend Projects. 
 - 🌱 I’m currently learning Backend development. 
