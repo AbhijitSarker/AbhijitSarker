@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Abhijit Sarker
-#### FrontEnd Developer
+#### Web Developer
 I'm a passionate web developer with a strong love for open-source projects. I specialize in crafting web applications using the following technologies:
 
-Skills:  REACT / JavaScript / HTML / CSS
+Skills:  REACT / Node.JS / Express.JS / MongoDB / JavaScript / HTML / CSS
 
 - 🔭 I’m currently working on Frontend Projects. 
 - 🌱 I’m currently learning Backend development. 
