@@ -3,10 +3,10 @@
 I'm a passionate **Web Developer** (MongoDB, Express.js, React.js, Node.js) with a strong focus on building scalable, efficient, and user-friendly web applications. I love solving problems and exploring new technologies to create impactful solutions.
 
 
-🔭 I’m currently working on: MERN stack projects that solve real-world problems.
-🌱 I’m currently learning: AI Integration
-🤝 I’m looking to collaborate on: Innovative ideas in business management and administration.  
-💡 I’m looking for help with: Optimizing MySQL databases for large-scale applications.  
+- 🔭 I’m currently working on: MERN stack projects that solve real-world problems.
+- 🌱 I’m currently learning: AI Integration
+- 🤝 I’m looking to collaborate on: Innovative ideas in business management and administration.  
+- 💡 I’m looking for help with: Optimizing MySQL databases for large-scale applications.  
 
 
 ## 🌐 Socials:
